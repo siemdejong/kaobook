@@ -2,6 +2,10 @@
 Changelog for package kaobook
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+New by siemdejong
+----------------
+* Change TOC style with page numbers ragged right
+
 0.9.8 (2021/08/23)
 ----------------
 * Fix some issues
