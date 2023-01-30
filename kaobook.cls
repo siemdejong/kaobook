@@ -227,7 +227,8 @@
 	    	\fi%
 	    }%
     }%
-	\RedeclareSectionCommand[beforeskip=0cm,afterskip=10\vscale]{chapter}%
+	% \RedeclareSectionCommand[beforeskip=0cm,afterskip=10\vscale]{chapter}%
+	\RedeclareSectionCommand[style=part, innerskip=0pt, beforeskip=\fill,afterskip=\fill]{chapter}%
 	\setlength{\mtocshift}{-3.5\vscale}%
 }
 
